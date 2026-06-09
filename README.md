@@ -93,6 +93,7 @@ User engagement profiling on 100,836 real MovieLens ratings. SVD collaborative f
 
 ## Currently Building
 
+- 🖥️ **AVA** — Fully local AI assistant runtime. Rust daemon + FastAPI + four-layer memory (SQLite + ChromaDB + entity graph + cross-session injection). Survives laptop sleep. Zero cloud, zero cost, zero data leaving the machine. Targeting 75-80% of Claude Sonnet quality on any modern laptop.
 - 🔬 **Clinical Outcomes & Trial Intelligence** — survival analysis on MIMIC-III clinical data
 - 📈 **AlphaSignal** — quantitative trading signal engine on tick data (HMM + order flow)
 - 🌐 **CosmicSignal** — gravitational wave anomaly detection on real LIGO open science data
