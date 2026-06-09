@@ -2,9 +2,7 @@
 
 **Data Scientist & ML Engineer** — I build systems that find what data is actually trying to say, not just what it reports on the surface.
 
-At Amazon I engineered pipelines across 400M+ records and pushed a classification system from a 98% company benchmark to 99.5%. Since then I've been building applied ML, GenAI, and data engineering projects on real data — from AML detection on 5M financial transactions to longitudinal biomarker analysis on 11,848 CDC respondents.
-
-Currently based in Jersey City, NY. Open to Data Scientist, ML Engineer, and Data Engineer roles.
+I build applied ML, GenAI, and data engineering projects on real data from AML detection on 5M financial transactions to longitudinal biomarker analysis on 11,848 CDC respondents. Every project is open source, runnable on your own data, and built to solve a problem that actually exists.
 
 ---
 
