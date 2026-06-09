@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Raja Palagummi
 
 **Data Scientist & ML Engineer** — I build systems that find what data is actually trying to say, not just what it reports on the surface.
@@ -105,6 +103,6 @@ User engagement profiling on 100,836 real MovieLens ratings. SVD collaborative f
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajapalagummi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://rajapalagummi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raja-palagummi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://www.rajapalagummi.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajapalagummi@gmail.com)
